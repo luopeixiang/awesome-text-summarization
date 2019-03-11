@@ -6,7 +6,28 @@ This repository will keep updating...
 
 
 
-[TOC]
+Table of Contents
+=================
+
+   * [awesome-text-summarization](#awesome-text-summarization)
+      * [Basic Concept](#basic-concept)
+         * [Definition](#definition)
+         * [Types of summarization](#types-of-summarization)
+         * [Summary Informativeness evaluation](#summary-informativeness-evaluation)
+      * [DataSet](#dataset)
+      * [Papers](#papers)
+         * [Survey](#survey)
+         * [Abstractive Document summarization](#abstractive-document-summarization)
+            * [Based Reinforcement Learning](#based-reinforcement-learning)
+         * [Extractive Document summarization](#extractive-document-summarization)
+            * [Based Reinforcement Learning](#based-reinforcement-learning-1)
+      * [Sentence Summarization](#sentence-summarization)
+      * [Unsupervised Abstractive Summarization](#unsupervised-abstractive-summarization)
+      * [Multi Document Summarization](#multi-document-summarization)
+      * [Evaluation Metrics](#evaluation-metrics)
+      * [Other Resources](#other-resources)
+
+
 
 
 
