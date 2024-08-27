@@ -116,6 +116,10 @@ summary author.
 
 **8.Pointer + Coverage + EntailmentGen + QuestionGen** (Guo et al., 2018) : [Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation](http://aclweb.org/anthology/P18-1064)
 
+**9. Global semantics + Gating** (Nguyen et al., 2021): [Enriching and Controlling Global Semantics for Text Summarization](https://arxiv.org/abs/2109.10616)
+
+**10. Optimal transport distance + knowledge distillation** (Nguyen et al., 2021): [Improving Neural Cross-Lingual Summarization via Employing Optimal Transport Distance for Knowledge Distillation](https://arxiv.org/abs/2112.03473)
+
 ---
 
 
